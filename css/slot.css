@@ -8,12 +8,10 @@ p {
 }
 
 body {
-    background: #A47E3B;
+   background-image: url("https://i.ibb.co/cvfsS85/photo-2022-08-14-15-57-51.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: top center;
-    background-size: contain;
-    background-size: 100%;
+    background-size: cover;
 }
 
 a:hover {
