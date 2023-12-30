@@ -8,7 +8,7 @@ p {
 }
 
 body {
-   background-image: url("https://i.ibb.co/DG0KQsK/Wild-West-Gold.jpg");
+   background-image: url("https://i.imgur.com/sO5NbxQ.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -68,7 +68,7 @@ button:focus {
 }
 
 .btn-provider:hover {
-    background-color: #398489;
+    background-color: #395089;
 }
 
 .slot-sidebar-nav {
@@ -82,13 +82,13 @@ button:focus {
 }
 
 .slot-sidebar-nav>li {
-    border-bottom: 1px solid #0092b1;
+    border-bottom: 1px solid #0067b1;
     width: 100%;
     position: relative;
     display: block;
     border-bottom: none;
     padding: 6px;
-    background: #90cace;
+    background: #6a78c4;
 }
 
 .slot-sidebar-nav>li>a {
@@ -96,7 +96,7 @@ button:focus {
     font-size: 13px;
     padding: 7px 10px;
     display: block;
-    background-color: #276165;
+    background-color: #274865;
 }
 
 .btn-provider {
@@ -128,7 +128,7 @@ button:focus {
 .wrapper {
     width: 100%;
     padding: 5px;
-    white-space: nowrap;
+    green-space: nowrap;
     overflow: hidden;
     position: relative;
     z-index: 0;
@@ -145,13 +145,19 @@ button:focus {
 }
 
 .card-content {
-    margin: 5px;
-    color: #fff;
     font-size: 12px;
-    border: none;
-    overflow: hidden;
+    border-bottom: 1px solid #0092b1;
+    width: 100%;
     position: relative;
-    background-color: #000000;
+    display: block;
+    border-bottom: none;
+    padding: 4px;
+    background: linear-gradient(to bottom,#e48600 0%,#f9b600 50%,#e48600  100%);
+    border: 1px solid #dadada;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
 }
 
 .percent {
@@ -201,15 +207,15 @@ button:focus {
 }
 
 .yellow {
-    background-color: #ffc107;
+    background-color: #dec101;
 }
 
 .green {
-    background-color: #28a745;
+    background-color: #23d200;
 }
 
 .red {
-    background-color: #dc3545;
+    background-color: #d70015;
 }
 
 .hover-btn {
@@ -286,7 +292,7 @@ button:focus {
 
 .next-btn {
     /* display: none; */
-    background: #90cace;
+    background: #6a78c4;
     width: 15%;
 }
 
